@@ -12,6 +12,8 @@
 		    String sender=(String)session.getAttribute("b");
 		    //out.println(sender);
 		    String message=null;
+		    
+		    String aug = null;
 		    String ty=request.getParameter("type");
 		    //out.println(ty);
 		    
