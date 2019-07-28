@@ -12,6 +12,7 @@
 		    String sender=(String)session.getAttribute("b");
 		    //out.println(sender);
 		    String message=null;
+		    String a =null;
 		    String ty=request.getParameter("type");
 		    //out.println(ty);
 		    
